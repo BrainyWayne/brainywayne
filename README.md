@@ -7,7 +7,7 @@
 
 - 🔭 I am working on a blockchain, NLP, and RSA encryption based telehealth software as my final year project 😃
 - 🌱 I’m currently learning everything, but mostly Flutter and React 🤣
-- 👯 I’m looking to collaborate with other developers to build the software and helps cure cancer 😉
+- 👯 I’m looking to collaborate with other developers to build the software that helps cure cancer 😉
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch science videos, especially space related, and develop indie games
 
@@ -47,35 +47,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
-- [How To Blog #short](https://www.youtube.com/watch?v=CGcv1wuwNG0)
-- [Keyword Research #short](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
-- [Catchy Blog Titles #short](https://www.youtube.com/watch?v=gLwPcnaqSMc)
-- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -93,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="brainywayne's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brainywayne&show_icons=true&hide_border=true" />
 
 </details>
 
