@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8hutlb9sn78xredf1ej8gp4hv&count={5}&width={500})
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8hutlb9sn78xredf1ej8gp4hv)
 
 
 ### Connect with me:
