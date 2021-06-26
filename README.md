@@ -1,6 +1,6 @@
 ### Hi there, I'm Francis - but you can call me [Brainywayne][website] 👋
 
-[![Website](https://img.shields.io/website?label=iamfrancis.web.app&style=for-the-badge&url=https%3A%2F%https://github.com/BrainyWayne)](https://iamfrancis.web.app)
+[![Website](https://img.shields.io/website?label=iamfrancis.web.app&style=for-the-badge&url=https%3A%2F%github.com/BrainyWayne)](https://iamfrancis.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_eshun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_eshun&screen_name=dev_eshun)
 
 ## I'm a Software Engineer, Mobile Developer, and Website Developer
@@ -31,12 +31,7 @@
 
 
 [website]: https://iamfrancis.web.app
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/dev_eshun
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/dev_eshun
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://www.linkedin.com/in/francis-eshun-905235167/
+
