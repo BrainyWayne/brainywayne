@@ -25,8 +25,6 @@
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/8hutlb9sn78xredf1ej8gp4hv)
 
 <br />
-<br />
-
 
 
 
