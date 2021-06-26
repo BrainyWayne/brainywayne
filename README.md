@@ -13,7 +13,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Francis Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8hutlb9sn78xredf1ej8gp4hv&count={5}&width={500})
+
 
 ### Connect with me:
 
@@ -47,7 +48,6 @@
 <br />
 <br />
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8hutlb9sn78xredf1ej8gp4hv&count={5}&width={500})
 
 
 <details>
