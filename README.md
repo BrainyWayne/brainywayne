@@ -1,6 +1,6 @@
 ### Hi there, I'm Francis - but you can call me [Brainywayne][website] 👋
 
-[![Website](https://img.shields.io/website?label=iamfrancis.web.app&style=for-the-badge&url=https%3A%2F%github.com/BrainyWayne)](https://iamfrancis.web.app)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_eshun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_eshun&screen_name=dev_eshun)
 
 ## I'm a Software Engineer, Mobile Developer, and Website Developer
@@ -22,7 +22,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8hutlb9sn78xredf1ej8gp4hv)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/8hutlb9sn78xredf1ej8gp4hv)
 
 <br />
 <br />
