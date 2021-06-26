@@ -1,7 +1,7 @@
 ### Hi there, I'm Francis - but you can call me [Brainywayne][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%brainywayne)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brainywayne?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Software Engineer, Mobile Developer, and Website Developer
 
@@ -17,7 +17,7 @@
 ### Github Stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BrainyWayne&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyWayne&langs_count=5&theme=tokyonight)]()
+
 
 
 ### Spotify Playing 🎧
@@ -29,12 +29,6 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="brainywayne's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BrainyWayne&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://iamfrancis.web.app
 [course]: http://vsCodeHero.com
