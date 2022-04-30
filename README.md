@@ -3,9 +3,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_eshun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_eshun&screen_name=dev_eshun)
 
-## I'm a Software Engineer, Mobile Developer, and Website Developer
+## I'm a Software Engineer: Mobile Developer, Blockchain developer, and Fullstack Website Developer
 
-- 🔭 I am working on a blockchain, NLP, and RSA encryption based telehealth software as my final year project 😃
+- 🔭 I am currently working on a blockchain, NLP, and RSA encryption based telehealth software 😃
 - 🌱 I’m currently learning everything, but mostly Flutter and React 🤣
 - 👯 I’m looking to collaborate with other developers to build the software that helps cure cancer 😉
 - 🥅 2021 Goals: Contribute more to Open Source projects
