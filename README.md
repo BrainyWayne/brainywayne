@@ -2,7 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_eshun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_eshun&screen_name=dev_eshun)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c810a20-a1fb-4cf7-a20c-f1ce63ad6d6d/deploy-status)](https://app.netlify.com/sites/elaborate-toffee-a8c98b/deploys)
 ## I'm a Software Engineer: Mobile Developer, Blockchain developer, and Fullstack Website Developer
 
 - 🔭 I am currently working on a blockchain, NLP, and RSA encryption based telehealth software 😃
