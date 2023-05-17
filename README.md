@@ -6,9 +6,9 @@
 ## I'm a Software Engineer: Mobile Developer, Blockchain developer, and Fullstack Website Developer
 
 - 🔭 I am currently working on a blockchain, NLP, and RSA encryption based telehealth software 😃
-- 🌱 I’m currently learning everything, but mostly Flutter and React 🤣
+- 🌱 I’m currently learning everything, but mostly Flutter, React Native, and React 🔭
 - 👯 I’m looking to collaborate with other developers to build the software that helps cure cancer 😉
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch science videos, especially space related, and develop indie games. I may be addicted to flutter but that's normal right?😂 Right?😢
 
 
