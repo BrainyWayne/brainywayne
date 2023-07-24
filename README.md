@@ -24,6 +24,11 @@
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/8hutlb9sn78xredf1ej8gp4hv)
 
+### Next.js Tech Stacks
+- Tech Stack 1: Brief description
+- Tech Stack 2: Brief description
+- Tech Stack 3: Brief description
+
 <br />
 
 
@@ -32,4 +37,3 @@
 [twitter]: https://twitter.com/brainywayne
 [instagram]: https://instagram.com/dev_eshun
 [linkedin]: https://www.linkedin.com/in/francis-eshun-905235167/
-
