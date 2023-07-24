@@ -26,10 +26,13 @@
 
 <br />
 
+### Software Developer Information
 
+I am a software engineer with a focus on mobile development, blockchain development, and full-stack website development. I am currently working on a blockchain, NLP, and RSA encryption based telehealth software. I am always learning and currently focusing on Flutter, React Native, and React. I am looking to collaborate with other developers to build software that helps cure cancer. My goal for 2023 is to contribute more to open source projects. In my free time, I love to watch science videos, especially those related to space, and develop indie games. I may be addicted to Flutter, but that's normal, right?
+
+[website]: https://franciseshun.com
 
 [website]: https://franciseshun.com
 [twitter]: https://twitter.com/brainywayne
 [instagram]: https://instagram.com/dev_eshun
 [linkedin]: https://www.linkedin.com/in/francis-eshun-905235167/
-
